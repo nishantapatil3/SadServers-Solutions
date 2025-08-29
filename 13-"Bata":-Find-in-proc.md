@@ -9,5 +9,5 @@ Test: Running md5sum /home/admin/secret.txt returns a7fcfd21da428dd7d4c5bb4c2e22
 
 # Solution
 ```
-grep -r secret: 2>/dev/null
+grep -r secret 2>/dev/null
 ```
