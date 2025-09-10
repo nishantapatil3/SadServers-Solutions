@@ -10,7 +10,20 @@ Test: sudo docker exec wordpress mysqladmin -h mysql -u root -ppassword ping . T
 
 # Solution
 ```
+sudo docker stop wordpress
+sudo docker stop mariadb
+
+sudo docker rename mariadb mysql
+
+sudo docker start mysql
+
 sudo docker rm wordpress -f
+
+# Add config
+
+sudo docker run -d -e WORDPRESS_DB_HOST=mysql -p 80:80 --link mysql:mysql --name wordpress wordpress:sad
+sudo docker exec wordpress env |grep WORDPRESS_DB_
+sudo docker logs wordpress
 
 
 ```
