@@ -1,2 +1,72 @@
 # SadServers-Solutions
-Solutions to sadservers.com
+Solutions to [sadservers.com](https://sadservers.com)
+
+## Solutions Index
+
+| #   | Challenge                                                    | Solution                                                                                                                                     |
+| --- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Saint John: what-is-writing-to-this-log-file                 | [01-"Saint John":-what-is-writing-to-this-log-file.md](01-"Saint%20John":-what-is-writing-to-this-log-file.md)                               |
+| 2   | Saskatoon: counting-IPs                                      | [02-"Saskatoon":-counting-IPs.md](02-"Saskatoon":-counting-IPs.md)                                                                           |
+| 3   | The-Command-Line-Murders                                     | [03-"The-Command-Line-Murders".md](03-"The-Command-Line-Murders".md)                                                                         |
+| 4   | Taipei: Come-a-knocking                                      | [04-"Taipei":-Come-a-knocking.md](04-"Taipei":-Come-a-knocking.md)                                                                           |
+| 5   | Resumable-Server: Linux-Upskill-Challenge                    | [05-"Resumable-Server":-Linux-Upskill-Challenge.md](05-"Resumable-Server":-Linux-Upskill-Challenge.md)                                       |
+| 6   | Lhasa: Easy-Math                                             | [06-"Lhasa":-Easy-Math.md](06-"Lhasa":-Easy-Math.md)                                                                                         |
+| 7   | Bucharest: Connecting-to-Postgres                            | [07-"Bucharest":-Connecting-to-Postgres.md](07-"Bucharest":-Connecting-to-Postgres.md)                                                       |
+| 8   | Bilbao: Basic-Kubernetes-Problems                            | [08-"Bilbao":-Basic-Kubernetes-Problems.md](08-"Bilbao":-Basic-Kubernetes-Problems.md)                                                       |
+| 9   | Apia: Needle-in-a-Haystack                                   | [09-"Apia":-Needle-in-a-Haystack.md](09-"Apia":-Needle-in-a-Haystack.md)                                                                     |
+| 10  | Gitega: Find-the-Bad-Git-Commit                              | [10-"Gitega":-Find-the-Bad-Git-Commit.md](10-"Gitega":-Find-the-Bad-Git-Commit.md)                                                           |
+| 11  | Minneapolis: Break-a-CSV-file                                | [11-"Minneapolis":-Break-a-CSV-file.md](11-"Minneapolis":-Break-a-CSV-file.md)                                                               |
+| 12  | Saint Paul: Merge-Many-CSVs-files                            | [12-"Saint%20Paul":-Merge-Many-CSVs-files.md](12-"Saint%20Paul":-Merge-Many-CSVs-files.md)                                                   |
+| 13  | Bata: Find-in-proc                                           | [13-"Bata":-Find-in-proc.md](13-"Bata":-Find-in-proc.md)                                                                                     |
+| 14  | Geneva: Renew-an-SSL-Certificate                             | [14-"Geneva":-Renew-an-SSL-Certificate.md](14-"Geneva":-Renew-an-SSL-Certificate.md)                                                         |
+| 15  | Linux-Server-Review - Guided-Learning                        | [15-Linux-Server-Review---Guided-Learning.md](15-Linux-Server-Review---Guided-Learning.md)                                                   |
+| 16  | Tokamachi: Troubleshooting-a-Named-Pipe                      | [16-"Tokamachi":-Troubleshooting-a-Named-Pipe.md](16-"Tokamachi":-Troubleshooting-a-Named-Pipe.md)                                           |
+| 17  | Yokohama: Linux-Users-Working-Together                       | [17-"Yokohama":-Linux-Users-Working-Together.md](17-"Yokohama":-Linux-Users-Working-Together.md)                                             |
+| 18  | Fukuoka: Forbidden-Association                               | [18-"Fukuoka":-Forbidden-Association.md](18-"Fukuoka":-Forbidden-Association.md)                                                             |
+| 19  | Manhattan: cant-write-data-into-database                     | [19-"Manhattan":-cant-write-data-into-database.md](19-"Manhattan":-cant-write-data-into-database.md)                                         |
+| 20  | Tokyo: cant-serve-web-file                                   | [20-"Tokyo":-cant-serve-web-file.md](20-"Tokyo":-cant-serve-web-file.md)                                                                     |
+| 21  | Cape-Town: Borked-Nginx                                      | [21-"Cape-Town":-Borked-Nginx.md](21-"Cape-Town":-Borked-Nginx.md)                                                                           |
+| 22  | Salta: Docker-container-wont-start                           | [22-"Salta":-Docker-container-wont-start.md](22-"Salta":-Docker-container-wont-start.md)                                                     |
+| 23  | Venice: Am-I-in-a-container                                  | [23-"Venice":-Am-I-in-a-container.md](23-"Venice":-Am-I-in-a-container.md)                                                                   |
+| 24  | Oaxaca: Close-an-Open-File                                   | [24-"Oaxaca":-Close-an-Open-File.md](24-"Oaxaca":-Close-an-Open-File.md)                                                                     |
+| 25  | Melbourne: WSGI-with-Gunicorn                                | [25-"Melbourne":-WSGI-with-Gunicorn.md](25-"Melbourne":-WSGI-with-Gunicorn.md)                                                               |
+| 26  | Lisbon: etcd-SSL-cert-troubles                               | [26-"Lisbon":-etcd-SSL-cert-troubles.md](26-"Lisbon":-etcd-SSL-cert-troubles.md)                                                             |
+| 27  | Kihei: Surely-Not-Another-Disk-Space-Scenario                | [27-"Kihei":-Surely-Not-Another-Disk-Space-Scenario.md](27-"Kihei":-Surely-Not-Another-Disk-Space-Scenario.md)                               |
+| 28  | Unimak-Island: Fun-with-Mr-Jason                             | [28-"Unimak-Island":-Fun-with-Mr-Jason.md](28-"Unimak-Island":-Fun-with-Mr-Jason.md)                                                         |
+| 29  | Ivujivik: Parlez-vous-Francais                               | [29-"Ivujivik":-Parlez-vous-Francais.md](29-"Ivujivik":-Parlez-vous-Francais.md)                                                             |
+| 30  | Paris: Where-is-my-webserver                                 | [30-"Paris":-Where-is-my-webserver.md](30-"Paris":-Where-is-my-webserver.md)                                                                 |
+| 31  | Buenos-Aires: Kubernetes-Pod-Crashing                        | [31-"Buenos-Aires":-Kubernetes-Pod-Crashing.md](31-"Buenos-Aires":-Kubernetes-Pod-Crashing.md)                                               |
+| 32  | Tarifa: Between-Two-Seas                                     | [32-"Tarifa":-Between-Two-Seas.md](32-"Tarifa":-Between-Two-Seas.md)                                                                         |
+| 33  | Marrakech: Word-Histogram                                    | [33-"Marrakech":-Word-Histogram.md](33-"Marrakech":-Word-Histogram.md)                                                                       |
+| 34  | Rosario: Restore-a-MySQL-database                            | [34-"Rosario":-Restore-a-MySQL-database.md](34-"Rosario":-Restore-a-MySQL-database.md)                                                       |
+| 35  | Abaokoro: Restore-MySQL-Databases-Spooked-by-a-Ghost         | [35-"Abaokoro":-Restore-MySQL-Databases-Spooked-by-a-Ghost.md](35-"Abaokoro":-Restore-MySQL-Databases-Spooked-by-a-Ghost.md)                 |
+| 36  | Manado: How-much-do-you-press                                | [36-"Manado":-How-much-do-you-press.md](36-"Manado":-How-much-do-you-press.md)                                                               |
+| 37  | Warsaw: Prometheus-cant-scrape-the-webserver                 | [37-"Warsaw":-Prometheus-cant-scrape-the-webserver.md](37-"Warsaw":-Prometheus-cant-scrape-the-webserver.md)                                 |
+| 38  | Moyogalpa: Security-Snag-The-Trials-of-Mary-and-John         | [38-"Moyogalpa":-Security-Snag-The-Trials-of-Mary-and-John.md](38-"Moyogalpa":-Security-Snag-The-Trials-of-Mary-and-John.md)                 |
+| 39  | Helsingor: The-first-walls-of-postgres-physical-replication  | [39-"Helsingor":-The-first-walls-of-postgres-physical-replication.md](39-"Helsingor":-The-first-walls-of-postgres-physical-replication.md)   |
+| 40  | Bekasi: Supervisor-is-still-around                           | [40-"Bekasi":-Supervisor-is-still-around.md](40-"Bekasi":-Supervisor-is-still-around.md)                                                     |
+| 41  | Depok: Nginx-with-Brotli                                     | [41-"Depok":-Nginx-with-Brotli.md](41-"Depok":-Nginx-with-Brotli.md)                                                                         |
+| 42  | Tukaani: XZ-LZMA-Library-Compromised                         | [42-"Tukaani":-XZ-LZMA-Library-Compromised.md](42-"Tukaani":-XZ-LZMA-Library-Compromised.md)                                                 |
+| 43  | Atrani: Modify-a-SQlite3-Database                            | [43-"Atrani":-Modify-a-SQlite3-Database.md](43-"Atrani":-Modify-a-SQlite3-Database.md)                                                       |
+| 44  | Minneapolis-with-a-Vengeance: Break-a-CSV-file               | [44-"Minneapolis-with-a-Vengeance":-Break-a-CSV-file.md](44-"Minneapolis-with-a-Vengeance":-Break-a-CSV-file.md)                             |
+| 45  | Hanoi: Find-the-Multitasking-Users                           | [45-"Hanoi":-Find-the-Multitasking-Users.md](45-"Hanoi":-Find-the-Multitasking-Users.md)                                                     |
+| 46  | Batumi: Troubleshoot-A-cannot-connect-to-B                   | [46-"Batumi":-Troubleshoot-A-cannot-connect-to-B.md](46-"Batumi":-Troubleshoot-A-cannot-connect-to-B.md)                                     |
+| 47  | Bengaluru: Kubernetes-StatefulSet-least-known-characteristic | [47-"Bengaluru":-Kubernetes-StatefulSet-least-known-characteristic.md](47-"Bengaluru":-Kubernetes-StatefulSet-least-known-characteristic.md) |
+| 48  | Constanta: Jumping-Frog                                      | [48-"Constanta":-Jumping-Frog.md](48-"Constanta":-Jumping-Frog.md)                                                                           |
+| 49  | Bharuch: Lost-in-Translation                                 | [49-"Bharuch":-Lost-in-Translation.md](49-"Bharuch":-Lost-in-Translation.md)                                                                 |
+| 50  | Quito: Control-One-Container-from-Another                    | [50-"Quito":-Control-One-Container-from-Another.md](50-"Quito":-Control-One-Container-from-Another.md)                                       |
+| 51  | Bangalore: Envoy-Panics                                      | [51-"Bangalore":-Envoy-Panics.md](51-"Bangalore":-Envoy-Panics.md)                                                                           |
+| 52  | Budapest: User-Creation                                      | [52-"Budapest":-User-Creation.md](52-"Budapest":-User-Creation.md)                                                                           |
+| 53  | Tokelau: Delete-from-history                                 | [53-"Tokelau":-Delete-from-history.md](53-"Tokelau":-Delete-from-history.md)                                                                 |
+| 54  | Jakarta: its-always-DNS                                      | [54-"Jakarta":-its-always-DNS.md](54-"Jakarta":-its-always-DNS.md)                                                                           |
+| 55  | Bern: Docker-web-container-cant-connect-to-db-container      | [55-"Bern":-Docker-web-container-cant-connect-to-db-container.md](55-"Bern":-Docker-web-container-cant-connect-to-db-container.md)           |
+| 56  | Karakorum: WTFIT-What-The-Fun-Is-This                        | [56-"Karakorum":-WTFIT-What-The-Fun-Is-This.md](56-"Karakorum":-WTFIT-What-The-Fun-Is-This.md)                                               |
+| 57  | Singara: Docker-and-Kubernetes-web-app-not-working           | [57-"Singara":-Docker-and-Kubernetes-web-app-not-working.md](57-"Singara":-Docker-and-Kubernetes-web-app-not-working.md)                     |
+| 58  | Hong-Kong: cant-write-data-into-database                     | [58-"Hong-Kong":-cant-write-data-into-database.md](58-"Hong-Kong":-cant-write-data-into-database.md)                                         |
+| 59  | Pokhara: SSH-and-other-sshenanigans                          | [59-"Pokhara":-SSH-and-other-sshenanigans.md](59-"Pokhara":-SSH-and-other-sshenanigans.md)                                                   |
+| 60  | Roseau: Hack-a-Web-Server                                    | [60-"Roseau":-Hack-a-Web-Server.md](60-"Roseau":-Hack-a-Web-Server.md)                                                                       |
+| 61  | Belo-Horizonte: A-Java-Enigma                                | [61-"Belo-Horizonte":-A-Java-Enigma.md](61-"Belo-Horizonte":-A-Java-Enigma.md)                                                               |
+| 62  | Chennai: Pull-a-Rabbit-from-a-Hat                            | [62-"Chennai":-Pull-a-Rabbit-from-a-Hat.md](62-"Chennai":-Pull-a-Rabbit-from-a-Hat.md)                                                       |
+| 63  | Monaco: Disappearing-Trick                                   | [63-"Monaco":-Disappearing-Trick.md](63-"Monaco":-Disappearing-Trick.md)                                                                     |
+| 64  | Florence: Database-Migration-Hell                            | [64-"Florence":-Database-Migration-Hell.md](64-"Florence":-Database-Migration-Hell.md)                                                       |
+| 65  | Zaragoza: Test-changing-critical-files                       | [65-"Zaragoza":-Test-changing-critical-files.md](65-"Zaragoza":-Test-changing-critical-files.md)                                             |
